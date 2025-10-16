@@ -1,0 +1,1 @@
+# RISE-MICCAI-Challenge-2025-Task-2A-Hippocampus-Segmentation-on-Ultra-Low-Field-MRI-
