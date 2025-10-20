@@ -9,6 +9,20 @@ The work implements a **MONAI-based 3D segmentation framework**, emphasizing rob
 
 ---
 
+## Dataset
+
+This code was developed for the **LISA 2025 Challenge**
+(*Low-Field Pediatric Brain Magnetic Resonance Image Segmentation and Quality Assurance 2025*).
+
+Dataset source:
+> LISA 2025 Challenge Organizers.  
+> *LISA 2025: Low-Field Pediatric Brain MRI Segmentation and Quality Assurance Challenge.*  
+> Available at: [https://lisa2025.grand-challenge.org](https://lisa2025.grand-challenge.org)
+
+Data are used under the LISA 2025 User License Agreement and cannot be redistributed.
+
+---
+
 ## 🧬 Key Features
 - **Dataset:** RISE-LISA Task 2A (Ultra-Low-Field MRI of hippocampus)  
 - **Framework:** [MONAI](https://monai.io/) with PyTorch backend  
@@ -58,3 +72,11 @@ The work implements a **MONAI-based 3D segmentation framework**, emphasizing rob
    ```bash
    git clone https://github.com/<your-username>/rise-miccai-challenge-au.git
    cd rise-miccai-challenge-au
+
+@misc{LISA2025,
+  title   = {LISA 2025: Low-Field Pediatric Brain Magnetic Resonance Image Segmentation and Quality Assurance Challenge},
+  author  = {{LISA 2025 Challenge Organizers}},
+  year    = {2025},
+  howpublished = {\url{https://lisa2025.grand-challenge.org}},
+  note    = {Accessed: October 2025}
+}
