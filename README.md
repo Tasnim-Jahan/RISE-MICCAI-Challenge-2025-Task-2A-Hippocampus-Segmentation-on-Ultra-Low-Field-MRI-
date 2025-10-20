@@ -73,10 +73,16 @@ Data are used under the LISA 2025 User License Agreement and cannot be redistrib
    git clone https://github.com/<your-username>/rise-miccai-challenge-au.git
    cd rise-miccai-challenge-au
 
+## Citation
+
+If you use this repository, please cite the dataset as follows:
+
+```bibtex
 @misc{LISA2025,
-  title   = {LISA 2025: Low-Field Pediatric Brain Magnetic Resonance Image Segmentation and Quality Assurance Challenge},
-  author  = {{LISA 2025 Challenge Organizers}},
-  year    = {2025},
+  title        = {LISA 2025: Low-Field Pediatric Brain Magnetic Resonance Image Segmentation and Quality Assurance Challenge},
+  author       = {{LISA 2025 Challenge Organizers}},
+  year         = {2025},
   howpublished = {\url{https://lisa2025.grand-challenge.org}},
-  note    = {Accessed: October 2025}
+  note         = {Accessed: October 2025}
 }
+
